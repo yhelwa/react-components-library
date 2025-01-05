@@ -1,6 +1,6 @@
 {
   "name": "@yhelwa/button-lib-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Template and quick-starter to create modern React libraries using Rollup.",
   "main": "dist/cjs/bundle.js",
   "module": "dist/esm/bundle.js",
