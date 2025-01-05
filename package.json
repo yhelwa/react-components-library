@@ -1,5 +1,5 @@
 {
-  "name": "@yhelwa/button-lib-test",
+  "name": "@yhelwa/react-component-lib",
   "version": "0.1.1",
   "description": "Template and quick-starter to create modern React libraries using Rollup.",
   "main": "dist/cjs/bundle.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yhelwa/button-lib-test.git"
+    "url": "git+https://github.com/yhelwa/react-components-library.git"
   },
   "author": "yhelwa",
   "license": "MIT",
@@ -35,9 +35,9 @@
     "template"
   ],
   "bugs": {
-    "url": "https://github.com/yhelwa/button-lib-test/issues"
+    "url": "https://github.com/yhelwa/react-components-library/issues"
   },
-  "homepage": "https://yhelwa.github.io/button-lib-test",
+  "homepage": "https://yhelwa.github.io/react-components-library",
   "peerDependencies": {
     "antd": "^5.4.0",
     "react": ">=16.8.0",
