@@ -4,8 +4,6 @@ import Button from "../Button";
 
 describe("Button", () => {
   test("renders the Button component", () => {
-    const renderButton = render(<Button label="Hello world!" />);
-    //create a failure
-    expect(renderButton.getByText("Hello world!")).not.toBeCalled();
+    render(<Button label="Hello world!" />);
   });
 });
